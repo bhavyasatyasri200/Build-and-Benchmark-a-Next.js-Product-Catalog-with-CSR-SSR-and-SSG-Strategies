@@ -4,6 +4,8 @@ This repository demonstrates the practical differences between three foundationa
 
 ##Live Demos
 -**csr** -```https://csr-roan.vercel.app/products ```
+-**ssg** -```https://ssg-nine-orpin.vercel.app/products```
+
 
 ## Tech Stack
 - **Framework:** Next.js (Pages Router)
