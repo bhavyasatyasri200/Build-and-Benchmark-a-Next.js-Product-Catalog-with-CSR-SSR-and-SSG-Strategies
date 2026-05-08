@@ -2,6 +2,9 @@
 
 This repository demonstrates the practical differences between three foundational web rendering strategies: **Client-Side Rendering (CSR)**, **Server-Side Rendering (SSR)**, and **Static Site Generation (SSG)** using Next.js 14. 
 
+##Live Demos
+-**csr** -```https://csr-roan.vercel.app/products ```
+
 ## Tech Stack
 - **Framework:** Next.js (Pages Router)
 - **Styling:** Tailwind CSS
